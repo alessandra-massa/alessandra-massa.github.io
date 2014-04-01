@@ -1,7 +1,7 @@
 /* global jQuery, setTimeout */
 (function ($, setTimeout) {
     'use strict';
-prima-pagina.html
+
 	$(function () {
 
 		var origin = "src/templates/";
